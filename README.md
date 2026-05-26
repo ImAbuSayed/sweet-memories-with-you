@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-memories-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweet Memories With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories-with-you/) |
+| **Get License** | [License this song: Sweet Memories With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-memories-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2179)
 
 ---
 
