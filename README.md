@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the bedroom wall
+> I can hear the whisper of your late-night call
+> Every memory of you is pulling me in deep
+> You are the only dream I want when I fall asleep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
